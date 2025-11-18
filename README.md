@@ -43,3 +43,13 @@ We use [tmux tpm plugin manager](https://github.com/tmux-plugins/tpm). For that 
 ```
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
+
+## Neovim
+
+```
+brew install neovim
+brew install fzf
+brew install lazygit
+brew install ripgrep
+brew install fd
+```
