@@ -33,3 +33,13 @@ Zsh.
 
 
 ## Terminal multiplexer: Tmux
+
+```
+brew install tmux
+```
+
+We use [tmux tpm plugin manager](https://github.com/tmux-plugins/tpm). For that you need to run:
+
+```
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
